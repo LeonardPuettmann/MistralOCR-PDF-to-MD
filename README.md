@@ -21,7 +21,8 @@ Run the script using Python:
 ```python convert.py```
 
 The script will process all PDF files in the pdf folder and save the converted Markdown files in a folder named md.
-Notes
 
-    The script will skip any PDF files that already have corresponding Markdown files in the md folder.
-    The script uses OCR to extract text from the PDF files, so the accuracy of the conversion depends on the quality of the PDF files.
+## Notes
+
+The script will skip any PDF files that already have corresponding Markdown files in the md folder.
+The script uses OCR to extract text from the PDF files, so the accuracy of the conversion depends on the quality of the PDF files.
